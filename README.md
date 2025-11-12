@@ -84,7 +84,7 @@ Interactive quiz app with real-time scoring, progress tracking, and animations.
 <td width="50%">
 
 ### 🛒 [ShopEasy](https://github.com/victorakintayo/shopeasy)
-Modern AI-enabled next-generation e-commerce store for fast, futuristic cars newly released by different brands.Demonstrating API integration, filtering, and global state management.  
+Modern AI-enabled next-generation e-commerce store for fast, futuristic cars newly released by different brands.
 **Stack:** React • Redux Toolkit • TypeScript • TailwindCSS  • Laravel
 <br/>
 <a href="https://github.com/victorakintayo/shopeasy">
