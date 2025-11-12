@@ -53,7 +53,7 @@ AI-powered appointment booking platform for service providers, with schedule sha
 **Stack:** Laravel • PHP • MySQL • Blade • AJAX  
 <br/>
 <a href="https://github.com/victorakintayo/pg-schema-view">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=victorakintayo&repo=pg-schema-view &theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=victorakintayo&repo=pg-schema-view&theme=tokyonight" />
 </a>
 
 </td>
@@ -64,7 +64,7 @@ Survey creation, automation & analytics platform with OTP auth, AI-assisted insi
 **Stack:** Laravel API • React • TypeScript • TailwindCSS  
 <br/>
 <a href="https://github.com/victorakintayo/api-throttle-tester">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=victorakintayo&repo=api-throttle-tester &theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=victorakintayo&repo=api-throttle-tester&theme=tokyonight" />
 </a>
 
 </td>
