@@ -72,23 +72,23 @@ Survey creation, automation & analytics platform with OTP auth, AI-assisted insi
 <tr>
 <td width="50%">
 
-### 🧠 [Quizify](https://github.com/victorakintayo/quizify)
+### 🧠 [somoo](https://github.com/victorakintayo/somoo)
 Interactive quiz app with real-time scoring, progress tracking, and animations.  
 **Stack:** React • TypeScript • TailwindCSS • Zustand  
 <br/>
-<a href="https://github.com/victorakintayo/quizify">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=victorakintayo&repo=quizify&theme=tokyonight" />
+<a href="https://github.com/victorakintayo/somoo">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=victorakintayo&repo=somoo&theme=tokyonight" />
 </a>
 
 </td>
 <td width="50%">
 
-### 🛒 [ShopSwift](https://github.com/victorakintayo/shopswift)
+### 🛒 [ShopSwift](https://github.com/victorakintayo/shopseasy)
 Modern e-commerce frontend demonstrating API integration, filtering, and global state management.  
 **Stack:** React • Redux Toolkit • TypeScript • TailwindCSS  
 <br/>
 <a href="https://github.com/victorakintayo/shopswift">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=victorakintayo&repo=shopswift&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=victorakintayo&repo=shopeasy&theme=tokyonight" />
 </a>
 
 </td>
