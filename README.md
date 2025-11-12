@@ -6,20 +6,39 @@
 
 💡 Currently building [Bookablee](https://github.com/victorakintayo/bookablee) – a next-gen appointment scheduling platform.  
 🤖 Passionate about integrating AI and process intelligence into business workflows.  
-📚 Exploring microservices, event-driven systems, and scalable web architecture.  
+📚 Exploring distributed systems, microservices, and event-driven architectures.  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+### 💻 **Frontend**
 ![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+### ⚙️ **Backend**
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+### 🗄️ **Database & Cloud**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
+![Neon](https://img.shields.io/badge/NeonDB-0080FF.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### 🧱 **DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -30,7 +49,7 @@
 <td width="50%">
   
 ### 🕓 [Bookablee](https://github.com/victorakintayo/bookablee)
-AI-powered appointment booking platform that enables service providers to create, share, and manage dynamic schedules.  
+AI-powered appointment booking platform for service providers, with schedule sharing, timeslot locking, and multi-branch logic.  
 **Stack:** Laravel • PHP • MySQL • Blade • AJAX  
 <br/>
 <a href="https://github.com/victorakintayo/bookablee">
@@ -41,7 +60,7 @@ AI-powered appointment booking platform that enables service providers to create
 <td width="50%">
   
 ### 📊 [BunnoIQ](https://github.com/victorakintayo/bunnoiq)
-Survey creation, automation & analytics platform with OTP auth and AI-assisted insights.  
+Survey creation, automation & analytics platform with OTP auth, AI-assisted insights, and chart visualizations.  
 **Stack:** Laravel API • React • TypeScript • TailwindCSS  
 <br/>
 <a href="https://github.com/victorakintayo/bunnoiq">
@@ -54,7 +73,7 @@ Survey creation, automation & analytics platform with OTP auth and AI-assisted i
 <td width="50%">
 
 ### 🧠 [Quizify](https://github.com/victorakintayo/quizify)
-Interactive quiz app with real-time scoring, transitions, and local persistence.  
+Interactive quiz app with real-time scoring, progress tracking, and animations.  
 **Stack:** React • TypeScript • TailwindCSS • Zustand  
 <br/>
 <a href="https://github.com/victorakintayo/quizify">
@@ -65,7 +84,7 @@ Interactive quiz app with real-time scoring, transitions, and local persistence.
 <td width="50%">
 
 ### 🛒 [ShopSwift](https://github.com/victorakintayo/shopswift)
-E-commerce frontend demonstrating API integration, filtering, and state management.  
+Modern e-commerce frontend demonstrating API integration, filtering, and global state management.  
 **Stack:** React • Redux Toolkit • TypeScript • TailwindCSS  
 <br/>
 <a href="https://github.com/victorakintayo/shopswift">
@@ -81,8 +100,8 @@ E-commerce frontend demonstrating API integration, filtering, and state manageme
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=victorakintayo&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&v=3" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorakintayo&layout=compact&langs_count=8&theme=tokyonight&v=3" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=victorakintayo&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&v=4" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorakintayo&layout=compact&langs_count=8&theme=tokyonight&v=4" />
 </p>
 
 ---
@@ -95,4 +114,4 @@ E-commerce frontend demonstrating API integration, filtering, and state manageme
 
 ---
 
-⭐️ *“Clean code, smart architecture, and human-centered design — that’s how I build.”*  
+⭐ *“I build scalable, AI-driven, and human-centered solutions — one architecture at a time.”*  
