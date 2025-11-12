@@ -48,18 +48,18 @@
 <tr>
 <td width="50%">
   
-### 🕓 [Bookablee](https://github.com/victorakintayo/bookablee)
+### 🕓 [pg-schema-view](https://github.com/victorakintayo/pg-schema-view)
 AI-powered appointment booking platform for service providers, with schedule sharing, timeslot locking, and multi-branch logic.  
 **Stack:** Laravel • PHP • MySQL • Blade • AJAX  
 <br/>
-<a href="https://github.com/victorakintayo/bookablee">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=victorakintayo&repo=bookablee&theme=tokyonight" />
+<a href="https://github.com/victorakintayo/pg-schema-view">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=victorakintayo&repo=pg-schema-view &theme=tokyonight" />
 </a>
 
 </td>
 <td width="50%">
   
-### 📊 [api-throttle-tester(https://github.com/victorakintayo/api-throttle-tester)
+### 📊 [api-throttle-tester](https://github.com/victorakintayo/api-throttle-tester)
 Survey creation, automation & analytics platform with OTP auth, AI-assisted insights, and chart visualizations.  
 **Stack:** Laravel API • React • TypeScript • TailwindCSS  
 <br/>
