@@ -19,8 +19,10 @@
 ---
 
 ### 📈 GitHub Stats  
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorakintayo&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorakintayo&layout=compact&theme=tokyonight)
+<!-- Overall stats -->
+![Victor Akintayo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=victorakintayo&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&v=2)
+<!-- Top languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorakintayo&layout=compact&langs_count=8&theme=tokyonight&v=2)
 
 ---
 
