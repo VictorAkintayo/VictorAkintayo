@@ -59,12 +59,12 @@ AI-powered appointment booking platform for service providers, with schedule sha
 </td>
 <td width="50%">
   
-### 📊 [BunnoIQ](https://github.com/victorakintayo/bunnoiq)
+### 📊 [api-throttle-tester(https://github.com/victorakintayo/api-throttle-tester)
 Survey creation, automation & analytics platform with OTP auth, AI-assisted insights, and chart visualizations.  
 **Stack:** Laravel API • React • TypeScript • TailwindCSS  
 <br/>
-<a href="https://github.com/victorakintayo/bunnoiq">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=victorakintayo&repo=bunnoiq&theme=tokyonight" />
+<a href="https://github.com/victorakintayo/api-throttle-tester">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=victorakintayo&repo=api-throttle-tester &theme=tokyonight" />
 </a>
 
 </td>
