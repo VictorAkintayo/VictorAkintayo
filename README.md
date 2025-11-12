@@ -83,11 +83,11 @@ Interactive quiz app with real-time scoring, progress tracking, and animations.
 </td>
 <td width="50%">
 
-### 🛒 [ShopSwift](https://github.com/victorakintayo/shopseasy)
-Modern e-commerce frontend demonstrating API integration, filtering, and global state management.  
-**Stack:** React • Redux Toolkit • TypeScript • TailwindCSS  
+### 🛒 [ShopEasy](https://github.com/victorakintayo/shopseasy)
+Modern AI-enabled next-generation e-commerce store for fast, futuristic cars newly released by different brands.Demonstrating API integration, filtering, and global state management.  
+**Stack:** React • Redux Toolkit • TypeScript • TailwindCSS  • Laravel
 <br/>
-<a href="https://github.com/victorakintayo/shopswift">
+<a href="https://github.com/victorakintayo/shopeasy">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=victorakintayo&repo=shopeasy&theme=tokyonight" />
 </a>
 
